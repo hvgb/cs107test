@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/dsondak/cs207testing.svg?branch=master)](https://travis-ci.org/dsondak/cs207testing.svg?branch=master)
+[![Build Status](https://travis-ci.com/hvgb/cs107test.svg?branch=main)](https://travis-ci.com/hvgb/cs107test)
 
-[![Coverage Status](https://codecov.io/gh/dsondak/cs207testing/branch/master/graph/badge.svg)](https://codecov.io/gh/dsondak/cs207testing)
+[![codecov](https://codecov.io/gh/hvgb/cs107test/branch/master/graph/badge.svg?token=J870EL3JBE)](https://codecov.io/gh/hvgb/cs107test/)
 
 # CS 107 HW4 P5 - Test Repo
